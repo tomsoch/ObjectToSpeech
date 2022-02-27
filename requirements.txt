@@ -1,0 +1,26 @@
+# to install requirements run command: pip3 install -r requirements.txt
+
+# ObjectToSpeech/utilities.py: 4
+gTTS == 2.2.3
+
+# ObjectToSpeech/App.py: 5
+numpy == 1.16.2
+
+# ObjectToSpeech/utilities.py: 1
+opencv_python == 4.5.3.56
+
+# ObjectToSpeech/App.py: 7,8
+picamera == 1.13
+
+# ObjectToSpeech/utilities.py: 6
+pygame == 1.9.4.post1
+
+# ObjectToSpeech/App.py: 2
+# ObjectToSpeech/utilities.py: 3
+pyttsx3 == 2.90
+
+# ObjectToSpeech/utilities.py: 8
+requests == 2.21.0
+
+# ObjectToSpeech/App.py: 6
+tensorflow == 2.2.0
